@@ -28,9 +28,11 @@ Java JDK版本为1.8及以上
 * 收款结果查询：OrderQueryDemo.java https://open.lianlianpay.com/apis/receive-money-result-query.html
 
 #### 付款：
+* 付款申请：PaymentDemo.java https://open.lianlianpay.com/apis/instant-apply.html
 * 付款结果查询：QueryPaymentDemo.java https://open.lianlianpay.com/apis/instant-result-query.html
 
 #### 退款：
+* 退款：RefundDemo.java https://open.lianlianpay.com/apis/refund.html
 * 退款结果查询：RefundQueryDemo.java https://open.lianlianpay.com/apis/refund-query.html
 
 #### 通用：
