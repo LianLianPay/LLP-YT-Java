@@ -11,8 +11,9 @@ import lombok.EqualsAndHashCode;
 public class OrderQueryResult {
     private String ret_code;
     private String ret_msg;
-    private String sign;
+    private String no_order;
     private String sign_type;
+    private String sign;
     private String oid_partner;
     // 连连支付单号
     private String oid_paybill;

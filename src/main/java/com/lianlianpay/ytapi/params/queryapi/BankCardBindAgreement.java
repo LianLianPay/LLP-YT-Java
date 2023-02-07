@@ -14,6 +14,8 @@ public class BankCardBindAgreement {
     private String bank_code;
     // 所属银行名称
     private String bank_name;
+    //银行预留手机号码
+    private String bind_mobile;
     /*
     银行卡类型。
     2 - 储蓄卡。
