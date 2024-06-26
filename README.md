@@ -42,4 +42,5 @@ Java JDK版本为1.8及以上
 * 用户签约银行卡列表查询：BankCardBindQueryDemo.java https://open.lianlianpay.com/apis/bind-card-list-query.html
 * 银行卡解约：BankcardUnbindDemo.java https://open.lianlianpay.com/apis/unbind-card.html
 * 账户余额查询接口：TraderAcctQueryDemo.java https://open.lianlianpay.com/apis/account-balance-query.html
+* 
 
