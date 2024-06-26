@@ -21,11 +21,13 @@ Java JDK版本为1.8及以上
 ### Demo说明（持续完善中）
 #### 银行卡签约：
 * 银行卡签约申请/验证：BankCardBindDemo.java https://open.lianlianpay.com/apis/bankCard-signing.html
+* 一键绑卡签约申请：BankCardOneBindDemo.java https://open.lianlianpay.com/apis/token-sign-createbill.html
 
 #### 收款：
 * 收银台支付创单：PayServerApiPayCreateBillDemo.java https://open.lianlianpay.com/apis/unified-payment.html
 * 银行卡支付：BankCardPayDemo.java https://open.lianlianpay.com/apis/signingPayment-application.html
 * 收款结果查询：OrderQueryDemo.java https://open.lianlianpay.com/apis/receive-money-result-query.html
+* 微信支付宝创单 WechatAlipayCreateDemo https://open.lianlianpay.com/apis/bankcardprepay.html
 
 #### 付款：
 * 付款申请：PaymentDemo.java https://open.lianlianpay.com/apis/instant-apply.html
@@ -42,5 +44,4 @@ Java JDK版本为1.8及以上
 * 用户签约银行卡列表查询：BankCardBindQueryDemo.java https://open.lianlianpay.com/apis/bind-card-list-query.html
 * 银行卡解约：BankcardUnbindDemo.java https://open.lianlianpay.com/apis/unbind-card.html
 * 账户余额查询接口：TraderAcctQueryDemo.java https://open.lianlianpay.com/apis/account-balance-query.html
-* 
-
+* 支付订单关闭：ClosePayOrderDemo.java https://open.lianlianpay.com/apis/close-order.html
